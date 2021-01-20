@@ -1,6 +1,8 @@
 import cv2 as c
 import matplotlib.pyplot as plt
+# Read an image 
 img = c.imread("neg.jpg",1)
+# Histogram plotting of the image 
 color = ('b','g','r')
 plt.imshow(img)
 plt.show()
