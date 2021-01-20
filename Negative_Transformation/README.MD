@@ -5,7 +5,7 @@ As we know, a color image stores 3 different channels. They are red, green and b
 
 #### Steps for negative transformation
 
-[x] Read an image
+[] Read an image
 [x] Get height and width of the image
 [x] Each pixel contains 3 channels. So, take a pixel value and collect 3 channels in 3 different variables.
 [x] Negate 3 pixels values from 255 and store them again in pixel used before.
