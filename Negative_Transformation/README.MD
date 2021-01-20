@@ -10,3 +10,9 @@ As we know, a color image stores 3 different channels. They are red, green and b
 3. Each pixel contains 3 channels. So, take a pixel value and collect 3 channels in 3 different variables.
 4. Negate 3 pixels values from 255 and store them again in pixel used before.
 5. Do it for all pixel values present in image.
+
+#### Outputs:
+
+![output1](https://user-images.githubusercontent.com/72355871/105163495-d77a2f00-5ac8-11eb-8050-d72c78b30009.JPG)
+
+![output2](https://user-images.githubusercontent.com/72355871/105163494-d5b06b80-5ac8-11eb-8e40-984ae7c3a10b.JPG)
