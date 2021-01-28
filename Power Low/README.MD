@@ -39,5 +39,9 @@ cv2.imshow('a2',img3)
 cv2.waitKey(0)
 
 
+## Output:
+### Original Image
+![forest](https://user-images.githubusercontent.com/72355871/106120396-319f7380-610b-11eb-9785-78653854e094.png)
+### Gamma Correction
 
-
+![gamm](https://user-images.githubusercontent.com/72355871/106120584-66abc600-610b-11eb-927c-31154ed318e0.jpg)
